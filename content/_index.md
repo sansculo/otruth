@@ -1,6 +1,6 @@
 ---
-title: "Lorem ipsum"
+title: "Fraud and endless lies at Obyte"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "dolor sit amet."
+description: "Featuring Tony Churyumoff, Steve Safronoff and Luke Angell."
 ---
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+
