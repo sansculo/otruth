@@ -1,6 +1,6 @@
 ---
-title: "Fraud and endless lies at Obyte"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: "Fraud and corruption at Obyte"
+featured_image: '/images/hero.jpg'
 description: "Featuring Tony Churyumoff, Steve Safronoff and Luke Angell."
 ---
 

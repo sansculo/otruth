@@ -1,5 +1,5 @@
 ---
-title: "Steve Safronoff is paid $120,000 a year of investors money but still does not know who he is supposedly working for"
+title: "Steve Safronoff still does not know who he is supposedly working for"
 date: 2020-06-22T15:45:25+01:00
 draft: false
 description: "Steve Safronoff is paid $120,000 a year of investors money but still does not know who he is supposedly working for"

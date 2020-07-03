@@ -1,5 +1,5 @@
 ---
-title: "Request to stop abusing Obyte funds"
+title: "Request to stop abusing Obyte funds (rejected)"
 date: 2020-06-22T15:45:25+01:00
 draft: false
 description: "A request made to Tony Churyumoff and Steve Safronoff to stop abusing undistributed Obyte funds, a request they both rejected"
@@ -10,6 +10,8 @@ description: "A request made to Tony Churyumoff and Steve Safronoff to stop abus
 In December 2018 I discovered by chance that Steve Safronoff and Luke Angell had attempted to obtain 1 million Euros from the undistributed Obyte funds. Broadly speaking, they wanted to go travelling around the world with their friends during 2019, paid for using investors money. 
 
 By this stage, Steve had already been employed by Obyte as Head of Business Development for 18 months. It was clear to everyone that not only did Steve have absolutely no idea what he was doing, he was also incredibly lazy. Luke had been in his role for 9 months. Neither had any interest in crypto or Obyte, they both got jobs at Obyte due to their personal connections to founder Tony Churyumoff who controls all the money.
+
+![Theft](https://lkbr.s3.amazonaws.com/20/7/theft.jpg "Stop abusing undistributed Obyte funds")
 
 In late January 2019, Tony forwarded me an email thread from Cointelegraph who wanted to sell Obyte advertising. The Cointelegraph person had emailed Tony several reminders about the offer. By this stage I had been working on Obyte (both as a volunteer and paid) for around 1 year. I had witnessed a lot of bullshit from Steve Safronoff, and I was furious that he and Luke had attempted to obtain 1 million Euros by going behind everyone's backs for what was clearly an awful plan. I replied to Tony, Steve, Luke and various others on the Obyte team with the following email:
 
@@ -46,6 +48,6 @@ Paul
 
 ### (email ends)
 
-My request was rejected by Tony. Steve and Luke were given large amounts of money for their awful plan which surprise, surprise, resulted in absolutely nothing. Further, both Steve and Luke lied to everyone on the Obyte team about the 'work' they were doing throughout 2019. The 'work' did not exist, it was all a bunch of lies which Tony finally admitted in October 2019. To this day Tony and Steve refuse to reveal how much money was wasted in salaries and expenses, despite multiple written and verbal requests to do so.
+My request was rejected by Tony. Steve and Luke were given large amounts of money for their awful plan which surprise, surprise, resulted in absolutely nothing. Further, **both Steve and Luke lied** to everyone on the Obyte team about the 'work' they were doing throughout 2019. The 'work' did not exist, it was all a bunch of lies which Tony finally admitted in October 2019. To this day Tony and Steve refuse to reveal how much money was wasted in salaries and expenses, despite multiple written and verbal requests to do so.
 
 Steve and Luke are still on the Obyte payroll. 

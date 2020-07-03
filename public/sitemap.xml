@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://otruth.org/posts/a-sneaky-attempt-to-blow-1-million-euro-of-obyte-funds/</loc>
+    <lastmod>2020-06-22T15:45:25+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://otruth.org/</loc>
     <lastmod>2020-06-22T15:45:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -18,6 +25,13 @@
   
   <url>
     <loc>https://otruth.org/posts/request-to-stop-abusing-obyte-funds/</loc>
+    <lastmod>2020-06-22T15:45:25+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://otruth.org/posts/obytes-is-still-called-byteball/</loc>
     <lastmod>2020-06-22T15:45:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
