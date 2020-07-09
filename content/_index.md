@@ -1,7 +1,7 @@
 ---
-title: "Fraud and corruption at Obyte"
+title: "Serious problems at Obyte"
 featured_image: '/images/hero.jpg'
-description: "Featuring Tony Churyumoff, Steve Safronoff and Luke Angell."
+description: ""
 ---
 
-My name is Paul Murray, I was part of the Obyte team for 2 years. I created Otruth to warn people that might be thinking of investing their time or money into the project.
+"I was part of the Obyte team for 2 years, 2018-2020. I created Otruth to bring desperately needed transparency to the project." *Paul Murray*
