@@ -23,7 +23,7 @@ For example, Steve Safronoff has been on the Obyte payroll for 3 years and durin
 
 ## End all Obyte team salaries immediately
 
-The easiest, fastest way to fix the problem is to end all Obyte team salaries and expense claims immediately.
+The easiest, fastest way to fix the problem is to ** end all Obyte team salaries and expense claims immediately. **
 
 Obyte is an open source project, many such projects are run 100% by volunteers, and there are already people that volunteer their time for Obyte. The project already has far more features than most cryptocurrencies, adding additional features when few people are using existing features makes little sense.
 
